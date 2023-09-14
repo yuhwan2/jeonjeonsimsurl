@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import os as os
-
+import params as pa
 
 def TargetDataReader(loc, Filename) :
 
