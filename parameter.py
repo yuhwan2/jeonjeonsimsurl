@@ -1,1 +1,0 @@
-Loc = r"/Users/yuhwan/Documents/전전심설/2"
